@@ -1,5 +1,5 @@
-# Binary-Classification-of-machine-faliure
-This dataset is modeled after an existing milling machine and our objective is to predict the probability of Machine failure. 
+# Binary-Classification-of-Machine-Failures
+This dataset is modeled after an existing milling machine and our objective is to predict the probability of Machine failure.
 ## Dataset Details
 According to the documentation of the Predictive Maintenance Dataset, properties of dataset features are defined below:
 
